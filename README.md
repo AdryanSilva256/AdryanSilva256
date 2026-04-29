@@ -1,4 +1,4 @@
-<h1 align="center">Fala aí, eu sou o Adryan 👨‍💻</h1>
+<h1 align="center">Fala aí, Me chamo Adryan 👨‍💻</h1>
 
 <p align="center">
 Explorando o mundo da programação | Focado em evolução constante 🚀
@@ -17,12 +17,8 @@ Explorando o mundo da programação | Focado em evolução constante 🚀
 
 ## 🧠 Sobre mim
 
-Atualmente estudo **Engenharia de Software, Segurança da Informação e Programação**.  
-Gosto de resolver problemas na prática e criar sistemas úteis no dia a dia, como:
-
-- 🖥️ Sistema de chamados T.I  
-- 💳 Projetos de PDV  
-- 🔐 Geradores e automações  
+Atualmente estudo **Engenharia de Software**.  
+Gosto de resolver problemas na prática e criar sistemas úteis no dia a dia.
 
 ---
 
@@ -52,9 +48,4 @@ Git • MySQL • VS Code
 
 Evoluir como desenvolvedor e conquistar oportunidades na área de tecnologia, sempre aprendendo algo novo todos os dias.
 
----
 
-## 📬 Bora conversar?
-
-- 📧 seuemail@gmail.com  
-- 💼 seu linkedin  
