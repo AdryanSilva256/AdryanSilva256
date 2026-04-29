@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Fala aí, eu sou o Adryan 👨‍💻</h1>
 
-<!--
-**AdryanSilva256/AdryanSilva256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Explorando o mundo da programação | Focado em evolução constante 🚀
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Contato-Email-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/seulink">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+
+Atualmente estudo **Engenharia de Software, Segurança da Informação e Programação**.  
+Gosto de resolver problemas na prática e criar sistemas úteis no dia a dia, como:
+
+- 🖥️ Sistema de chamados T.I  
+- 💳 Projetos de PDV  
+- 🔐 Geradores e automações  
+
+---
+
+## ⚙️ Stack atual
+
+🟢 **Front-end**  
+HTML • CSS • JavaScript  
+
+🔵 **Back-end**  
+C • PHP  
+
+🟣 **Ferramentas**  
+Git • MySQL • VS Code  
+
+---
+
+## 📊 Meu GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor e conquistar oportunidades na área de tecnologia, sempre aprendendo algo novo todos os dias.
+
+---
+
+## 📬 Bora conversar?
+
+- 📧 seuemail@gmail.com  
+- 💼 seu linkedin  
