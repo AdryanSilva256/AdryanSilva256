@@ -1,45 +1,44 @@
-<h2 align="center">👋 Olá, eu sou o Adryan</h2>
+<h1 align="center">👋 Olá, Meu nome é Adryan</h1>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software | 💻 Em evolução na programação
+🎓 Estudante de Engenharia de Software <br>
+💻 Em evolução na programação
+</p>
+
+<p align="center">
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/seulink">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Atualmente curso **Engenharia de Software** e estou focado em aprender e evoluir na área de tecnologia.
+Sou estudante de **Engenharia de Software** e estou focado em aprender programação na prática.
 
-Tenho interesse em desenvolvimento de sistemas e gosto de colocar em prática o que estudo criando projetos reais.
-
----
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-## 🧠 Conhecimentos
-
-- HTML, CSS e JavaScript  
-- Linguagem C  
-- PHP básico  
-- Lógica de programação  
+Busco evoluir constantemente e desenvolver habilidades que me preparem para o mercado de tecnologia.
 
 ---
 
-## 🛠️ Ferramentas
+## 🛠️ Tecnologias
 
-- Git e GitHub  
-- VS Code  
-- MySQL  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
 ---
 
-## 📊 GitHub
+## 📊 Estatísticas
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AdryanSilva256&show_icons=true&theme=dark">
@@ -50,11 +49,11 @@ Tenho interesse em desenvolvimento de sistemas e gosto de colocar em prática o 
 
 ## 🎯 Objetivo
 
-Crescer como desenvolvedor e conquistar uma oportunidade na área de tecnologia.
+Me desenvolver como programador e conquistar minha primeira oportunidade na área de tecnologia.
 
 ---
 
-## 📫 Contato
+## 📬 Contato
 
 📧 seuemail@gmail.com  
 💼 LinkedIn: seu link  
