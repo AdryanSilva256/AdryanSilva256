@@ -3,8 +3,8 @@
 <p align="center">
 🎓 Estudante de Engenharia de Software <br>
 💻 Em evolução na programação
-</p>
----
+
+<br>
 
 ## 👨‍💻 Sobre mim
 
