@@ -1,51 +1,52 @@
-<h1 align="center">Fala aí, Me chamo Adryan 👨‍💻</h1>
+<h2 align="center">👋 Olá, eu sou o Adryan</h2>
 
 <p align="center">
-Explorando o mundo da programação | Focado em evolução constante 🚀
-</p>
-
-<p align="center">
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Contato-Email-red?style=flat-square&logo=gmail">
-  </a>
-  <a href="[https://linkedin.com/in/seulink](https://www.linkedin.com/in/adryan-silva-205903364/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin">
-  </a>
+🎓 Estudante de Engenharia de Software | 💻 Em evolução na programação
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 👨‍💻 Sobre mim
 
-Atualmente estudo **Engenharia de Software**.  
-Gosto de resolver problemas na prática e criar sistemas úteis no dia a dia.
+Atualmente curso **Engenharia de Software** e estou focado em aprender e evoluir na área de tecnologia.
 
----
-
-## ⚙️ Stack atual
-
-🟢 **Front-end**  
-HTML • CSS • JavaScript  
-
-🔵 **Back-end**  
-C • PHP  
-
-🟣 **Ferramentas**  
-Git • MySQL • VS Code  
+Tenho interesse em desenvolvimento de sistemas e gosto de colocar em prática o que estudo criando projetos reais.
 
 ---
 
-## 📊 Meu GitHub
+## 🧠 Conhecimentos
+
+- HTML, CSS e JavaScript  
+- Linguagem C  
+- PHP básico  
+- Lógica de programação  
+
+---
+
+## 🛠️ Ferramentas
+
+- Git e GitHub  
+- VS Code  
+- MySQL  
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AdryanSilva256&show_icons=true&theme=dark">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanSilva256&layout=compact&theme=dark">
 </p>
 
 ---
 
 ## 🎯 Objetivo
 
-Evoluir como desenvolvedor e conquistar oportunidades na área de tecnologia, sempre aprendendo algo novo todos os dias.
+Crescer como desenvolvedor e conquistar uma oportunidade na área de tecnologia.
 
+---
 
+## 📫 Contato
+
+📧 seuemail@gmail.com  
+💼 LinkedIn: seu link  
