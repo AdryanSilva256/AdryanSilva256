@@ -8,7 +8,7 @@ Explorando o mundo da programação | Focado em evolução constante 🚀
   <a href="mailto:seuemail@gmail.com">
     <img src="https://img.shields.io/badge/Contato-Email-red?style=flat-square&logo=gmail">
   </a>
-  <a href="https://linkedin.com/in/seulink">
+  <a href="[https://linkedin.com/in/seulink](https://www.linkedin.com/in/adryan-silva-205903364/)">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
