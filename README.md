@@ -46,4 +46,4 @@ Me desenvolver como programador e conquistar minha primeira oportunidade na áre
 ## 📬 Contato
 
 📧 <a href="mailto:seuemail@gmail.com">seuemail@gmail.com</a>  
-💼 <a href="https://www.linkedin.com/in/adryan-silva-205903364/">Meu LinkedIn</a>
+💼 <a href="https://www.linkedin.com/in/adryan-silva-205903364/"target="_blank >Meu LinkedIn</a>
