@@ -14,7 +14,7 @@ Busco evoluir constantemente e desenvolver habilidades que me preparem para o me
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias (Iniciantes)
 
 <p>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
