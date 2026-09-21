@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, Meu nome é Adryan</h1>
+<h1 align="center">👋 Olá, Meu nome é Adryan Silva</h1>
 
 <p align="center">
 🎓 Estudante de Engenharia de Software <br>
@@ -31,8 +31,13 @@ Busco evoluir constantemente e desenvolver habilidades que me preparem para o me
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AdryanSilva256&show_icons=true&theme=dark">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanSilva256&layout=compact&theme=dark">
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api?username=AdryanSilva256&show_icons=true&theme=dark"
+       alt="Estatísticas do GitHub de Adryan Silva" />
+
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanSilva256&layout=compact&theme=dark"
+       alt="Linguagens mais usadas por Adryan Silva" />
 </p>
 
 ---
